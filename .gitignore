@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+.dvc/cache/
+
+*.h5
+*.keras
+
+data/raw/
+data/processed/
+
+models/
+
+.dvc/tmp/
