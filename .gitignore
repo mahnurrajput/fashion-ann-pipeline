@@ -13,3 +13,4 @@ data/processed/
 models/
 
 .dvc/tmp/
+metrics/
